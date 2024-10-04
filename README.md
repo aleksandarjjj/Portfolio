@@ -2,7 +2,7 @@
 
 ### _Independent by nature -  completes every project with attention to smallest detail even if it requires additional hours of work_
 ### _Innovative and willing to adapt - optimizes every assignment and process to save time and energy for the core areas of work_
-### _Problem solver - tackles every problem to find the best, right and most suitable solution to the problem_
+### _Problem solver - tackles every problem to find the best, right and most suitable solution_
 <br/>
 
 #### <ins>Projects</ins>
