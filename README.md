@@ -11,12 +11,12 @@
 - #### C#
 - #### Backend Design
 - #### HTML/CSS
-- #### ASP.NET/Blazor
+- #### ASP.NET/Blazor (beginner)
 - #### Linux Self Hosting
 - #### Cyber Security and Secure Design
 
 #### <ins>Education</ins>
-- #### 2022 - 2025 - AP Computer Science, UCL University College Seebladsgade
+- #### 2023 - 2026 - AP Computer Science, UCL University College Seebladsgade
 - #### 2016 - 2020 - Bachelor of Chemical Engineering, Technical University of Denmark
 - #### 2012 - 2015 - High School Diploma, Espergærde Gymnasium og HF
 
